@@ -1,0 +1,85 @@
+Skip to content
+Product
+Solutions
+Open Source
+Pricing
+Search
+Sign in
+Sign up
+netology-code
+/
+aqa-homeworks
+Public
+Code
+Pull requests
+Actions
+Security
+Insights
+aqa-homeworks/.gitignore
+@coursar
+coursar fix: .gitignore
+Latest commit d032024 on 17 Oct 2019
+ History
+ 1 contributor
+45 lines (39 sloc)  450 Bytes
+
+Thumbs.db*
+.DS_Store
+HELP.md
+.gradle
+build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Package Files ###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Exclusions ###
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+aqa-homeworks/.gitignore at master · netology-code/aqa-homeworks · GitHub
