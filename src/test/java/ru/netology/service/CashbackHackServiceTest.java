@@ -25,5 +25,13 @@ public class CashbackHackServiceTest {
         assertEquals(expected, actual);
 
     }
+    @Test
+    public void equalLimit() {
+        int expected =0;
+        CashbackHackService service = new CashbackHackService();
+        int actual = service.remain(1000);
+        assertEquals(expected, actual);
+
+    }
 }
 
